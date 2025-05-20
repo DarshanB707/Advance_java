@@ -49,4 +49,23 @@ https://github.com/DarshanB707/Advance_java/blob/main/Exp-6-Servelet/prime2.png
 
 Output for Servlet Program7 welcome and Cookie Management :-
 
+https://github.com/DarshanB707/Advance_java/blob/main/Exp-7-Servelet/7ad1.png
+https://github.com/DarshanB707/Advance_java/blob/main/Exp-7-Servelet/7ad2.png
+https://github.com/DarshanB707/Advance_java/blob/main/Exp-7-Servelet/7ad3.png
+https://github.com/DarshanB707/Advance_java/blob/main/Exp-7-Servelet/7ad4.png
+https://github.com/DarshanB707/Advance_java/blob/main/Exp-7-Servelet/7bd.png
+https://github.com/DarshanB707/Advance_java/blob/main/Exp-7-Servelet/7bd1.png
 
+Output for JDBC Program8 insert , update operations:-
+
+https://github.com/DarshanB707/Advance_java/blob/main/Exp-8_JDBCEx/8a.png
+https://github.com/DarshanB707/Advance_java/blob/main/Exp-8_JDBCEx/8b.png
+https://github.com/DarshanB707/Advance_java/blob/main/Exp-8_JDBCEx/8c.png
+https://github.com/DarshanB707/Advance_java/blob/main/Exp-8_JDBCEx/8d.png
+
+Output for JDBC Program9 Add , Delete and Search Operations :-
+
+https://github.com/DarshanB707/Advance_java/blob/main/Exp-9-JDBCex/9aa.png
+https://github.com/DarshanB707/Advance_java/blob/main/Exp-9-JDBCex/9b.png
+https://github.com/DarshanB707/Advance_java/blob/main/Exp-9-JDBCex/9C.png
+https://github.com/DarshanB707/Advance_java/blob/main/Exp-9-JDBCex/9DB.png
