@@ -47,3 +47,6 @@ https://github.com/DarshanB707/Advance_java/blob/main/Exp-6-Servelet/6bd1.png
 https://github.com/DarshanB707/Advance_java/blob/main/Exp-6-Servelet/prime1.png
 https://github.com/DarshanB707/Advance_java/blob/main/Exp-6-Servelet/prime2.png
 
+Output for Servlet Program7 welcome and Cookie Management :-
+
+
