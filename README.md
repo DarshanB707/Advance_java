@@ -4,7 +4,7 @@ Output for list implementation Program1 :-
 
 https://github.com/DarshanB707/Advance_java/blob/main/Exp-1-ListInterface/ArrayList.png
 https://github.com/DarshanB707/Advance_java/blob/main/Exp-1-ListInterface/Colorsearch.png
-https://github.com/DarshanB707/Advance_java/blob/main/Exp-1-ListInterface/DisplayWithPositions.png
+https://github.com/DarshanB707/Advance_java/blob/main/Exp-1-ListInterface/Displaywithposition.png
 https://github.com/DarshanB707/Advance_java/blob/main/Exp-1-ListInterface/InsertAtEnd.png
 https://github.com/DarshanB707/Advance_java/blob/main/Exp-1-ListInterface/IterateFromSecond.png
 https://github.com/DarshanB707/Advance_java/blob/main/Exp-1-ListInterface/LinkedList.png
